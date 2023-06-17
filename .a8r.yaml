@@ -7,3 +7,7 @@ k8s_config:
   cluster_info:
     cluster_id: 9017785c-a624-57fb-9aad-3526eceb5afa
     cluster_name: telepresence:workstation
+- manifest_path: /manifests
+  cluster_info:
+    cluster_id: 7c88c3a1-f96d-55cb-ab22-f0a3fd3bdebe
+    cluster_name: demo-prod-fed37973-15d8-4bbb-9415-1d70ec8e7137
